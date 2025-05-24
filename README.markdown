@@ -1,8 +1,4 @@
-# Ultimate DBMS with Python and MySQL on Windows: An Exhaustive Guide
-
-This repository provides an extraordinarily detailed guide and code examples for implementing a Database Management System (DBMS) using **Python**, **MySQL**, and **Visual Studio Code (VS Code)** on a **Windows laptop**, specifically using the VS Code integrated terminal with **Command Prompt (cmd.exe)**. It is designed for users of all levels, from absolute beginners to advanced developers, and covers every fundamental and advanced DBMS concept with meticulous explanations, step-by-step instructions, and Python code using the `mysql-connector-python` library. The project focuses on a school management system (`school_db`) to demonstrate concepts like database creation, table operations, CRUD operations, keys, indexes, joins, transactions, normalization, stored procedures, triggers, views, and advanced topics like connection pooling, query optimization, and database replication. Windows-specific configurations, troubleshooting, and best practices are emphasized to ensure a seamless experience.
-
----
+# DBMS with Python : A Guide
 
 ## Table of Contents
 1. [Introduction to DBMS](#introduction-to-dbms)
